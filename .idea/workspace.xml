@@ -5,15 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b12a7cfb-92e1-4c71-884a-24b6c938fe5a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/rails-tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rails-tutorial.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/say/goodbye.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/say/goodbye.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/say/hello.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/say/hello.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/say_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/helpers/say_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/say/goodbye.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/say/hello.html.erb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -152,11 +160,22 @@
       <updated>1608549470921</updated>
       <workItem from="1608549488044" duration="112000" />
       <workItem from="1608549620440" duration="1882000" />
-      <workItem from="1608632554355" duration="342000" />
+      <workItem from="1608632554355" duration="2621000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
