@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b12a7cfb-92e1-4c71-884a-24b6c938fe5a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/products/_form.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/products/_form.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/migrate/20201222135705_create_products.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrate/20201222135705_create_products.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/products_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/products_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/product.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/product.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,6 +159,8 @@
       <workItem from="1608549488044" duration="112000" />
       <workItem from="1608549620440" duration="1882000" />
       <workItem from="1608632554355" duration="3607000" />
+      <workItem from="1608816299210" duration="23000" />
+      <workItem from="1608816345953" duration="945000" />
     </task>
     <servers />
   </component>
@@ -175,5 +177,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
