@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b12a7cfb-92e1-4c71-884a-24b6c938fe5a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/products_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/products_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/controllers/products_controller_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/controllers/products_controller_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/fixtures/products.yml" beforeDir="false" afterPath="$PROJECT_DIR$/test/fixtures/products.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/models/product_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/models/product_test.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -203,7 +206,7 @@
       <workItem from="1608549620440" duration="1882000" />
       <workItem from="1608632554355" duration="3607000" />
       <workItem from="1608816299210" duration="23000" />
-      <workItem from="1608816345953" duration="1768000" />
+      <workItem from="1608816345953" duration="2329000" />
     </task>
     <servers />
   </component>

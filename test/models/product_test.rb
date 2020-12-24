@@ -3,6 +3,27 @@
 require 'test_helper'
 
 class ProductTest < ActiveSupport::TestCase
+  def new_product(image_url)
+    Product.new(title: 'My book title',
+                description: 'My description',
+                image_url: image_url,
+                price: 1)
+  end
+
+  test 'image url' do
+    ok = %w[ fred.gif fred.jpg fred.png FRED.JPG FRED.Jpg
+             http://a.b.c/x/y/z/fred.gif ]
+    bad = %w[fred.doc fred.gif/more fred.gif.more]
+
+    ok.each do |image|
+      assert new_product(image).valid?, "#{image} shouldn't be invalid"
+    end
+
+    bad.each do |image|
+      assert new_product(image).valid?, "#{image} shouldn't be valid"
+    end
+  end
+
   test 'product attributes must no be empty' do
     product = Product.new
     assert product.invalid?
